@@ -12,7 +12,7 @@
 
 ## 🧑🏻‍💻 About me
 
-저에 대해 더 알고 싶으시다면 하단의 [notion 페이지](https://fish-twill-d55.notion.site/e9de9dded8da4f58b0e9150a73ac9b82)를 봐주시면 감사하겠습니다.
+저에 대해 더 알고 싶으시다면 [notion 페이지](https://fish-twill-d55.notion.site/e9de9dded8da4f58b0e9150a73ac9b82)를 봐주시면 감사하겠습니다.
 
 ### 🛠 Tech Skill
 
